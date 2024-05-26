@@ -21,30 +21,25 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 
 ## Languages, Tools and Distros
 
-> These are some of the languages, tools, and distros I've used or am currently using in my specialization.
-    
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">  <span class="badge bg-light text-dark">LANGS:</span>  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=C&logoColor=black&color=black"> C</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=openjdk&logoColor=black&color=black"> Java</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=cpp&logoColor=black&color=black"> C++</span>
+![Static Badge](https://img.shields.io/badge/LANGS:-white?logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/C-white.svg?&logo=C&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Java-white?&logo=openjdk&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/C++-white.svg?&logo=cpp&logoColor=black&style=for-the-badge)
+<br>
+![Static Badge](https://img.shields.io/badge/TOOLS:-white?logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Bash-white.svg?&logo=gnu-bash&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Makefile-white.svg?&logo=monzo&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Vim-white?&logo=VIM&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/GDB-white?logo=gnubash&logoColor=black&style=for-the-badge)
+<br>
+![Static Badge](https://img.shields.io/badge/FRAMEWORKS:-white?logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Spring-green.svg?&logo=spring&logoColor=black&style=for-the-badge)
+<br>
+![Static Badge](https://img.shields.io/badge/DISTROS:-white?logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=black&style=for-the-badge)
 
-  <br>  <span class="badge bg-light text-dark">TOOLS:</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=linux&logoColor=black&color=black"> Linux</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=git&logoColor=black&color=black"> Git</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=github&logoColor=black&color=black"> Github</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=gnu-bash&logoColor=black&color=black"> Bash</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=monzo&logoColor=black&color=black"> Makefile</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=VIM&logoColor=black&color=black"> Vim</span>
-  <span class="badge bg-light text-dark"><img src="https://img.shields.io/svg?style=for-the-badge&logo=gnubash&logoColor=black&color=black"> GDB</span>
 
-  <br>
-
-  <span class="badge bg-light text-dark">FRAMEWORKS:</span>
-  <span class="badge bg-success text-white"><img src="https://img.shields.io/svg?style=for-the-badge&logo=spring&logoColor=white&color=white"> Spring</span>
-
-  <br>
-
-  <span class="badge bg-light text-dark">DISTROS:</span>
-  <span class="badge bg-info text-white"><img src="https://img.shields.io/svg?style=for-the-badge&logo=debian&logoColor=white&color=white"> Debian</span>
-  <span class="badge bg-primary text-white"><img src="https://img.shields.io/svg?style=for-the-badge&logo=ubuntu&logoColor=white&color=white"> Ubuntu</span>
-
-</div>
