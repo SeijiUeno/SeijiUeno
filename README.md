@@ -41,6 +41,6 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 ![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=black&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Windows-white?logo=linux&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Windows-white?logo=Windows&logoColor=black&style=for-the-badge)
 
 
