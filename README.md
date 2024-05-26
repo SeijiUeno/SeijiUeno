@@ -36,7 +36,7 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 ![Static Badge](https://img.shields.io/badge/GDB-white?logo=gnubash&logoColor=black&style=for-the-badge)
 <br>
 ![Static Badge](https://img.shields.io/badge/FRAMEWORKS:-white?logoColor=black&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Spring-green.svg?&logo=spring&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Spring-white.svg?&logo=spring&logoColor=black&style=for-the-badge)
 <br>
 ![Static Badge](https://img.shields.io/badge/DISTROS:-white?logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=black&style=for-the-badge)
