@@ -9,11 +9,11 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-## 42sp Game
+## Projects 
 
 > These are the badges that I acquired in the 42sp game. Click on one of the badges to be redirected to the project directory.
 
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" width="85"/></a>
+<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" width="90"/></a>
 <a href="https://github.com/SeijiUeno/libft#readme"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
@@ -21,7 +21,7 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 
 ## Languages, Tools and Distros
 
-> These are the languages, tools and distros that I used and I am using in my specialization. Please know that I didn't mention them all, but only those that I have a special appreciation for!
+> These are some of the languages, tools, and distros I've used or am currently using in my specialization.
     
 ![Static Badge](https://img.shields.io/badge/LANGS:-white?logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/C-white.svg?&logo=C&logoColor=black&style=for-the-badge)
