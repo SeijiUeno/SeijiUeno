@@ -11,10 +11,10 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 
 ## Projects 
 
-> These are the badges that I acquired in the 42sp game. Click on one of the badges to be redirected to the project directory.
+> These are some of my journey.
 
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" width="90"/></a>
-<a href="https://github.com/SeijiUeno/libft#readme"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
+<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="85"/></a>
