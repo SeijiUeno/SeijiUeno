@@ -27,7 +27,6 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 ![Static Badge](https://img.shields.io/badge/C++-white.svg?&logo=cpp&logoColor=black&style=for-the-badge)
 <br>
 ![Static Badge](https://img.shields.io/badge/TOOLS:-white?logoColor=black&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Bash-white.svg?&logo=gnu-bash&logoColor=black&style=for-the-badge)
@@ -39,7 +38,9 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 ![Static Badge](https://img.shields.io/badge/Spring-white.svg?&logo=spring&logoColor=black&style=for-the-badge)
 <br>
 ![Static Badge](https://img.shields.io/badge/DISTROS:-white?logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Windows-white?logo=linux&logoColor=black&style=for-the-badge)
 
 
