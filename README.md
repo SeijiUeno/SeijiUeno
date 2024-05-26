@@ -1,6 +1,6 @@
 ### Seiji, here.
 
-I am a Software Engineer Student at Ecóle 42
+I am a Software Engineer Student at Ecóle 42 <br>
 I'm learning and improving my abilities in coding at [42 São Paulo](https://www.42sp.org.br/).
 
 <div> 
