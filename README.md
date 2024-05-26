@@ -11,8 +11,6 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 
 ## Projects 
 
-> These are some of my journey.
-
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" width="90"/></a>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
