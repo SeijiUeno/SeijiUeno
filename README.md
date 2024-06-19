@@ -9,14 +9,6 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-## Projects 
-
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" width="90"/></a>
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="85"/></a>
-
 ## Languages, Tools and Distros
 
 ![Static Badge](https://img.shields.io/badge/LANGS:-white?logoColor=black&style=for-the-badge)
