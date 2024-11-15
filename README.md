@@ -15,6 +15,7 @@ I'm learning and improving my abilities in coding at [42 São Paulo](https://www
 ![Static Badge](https://img.shields.io/badge/C-white.svg?&logo=C&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Java-white?&logo=openjdk&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/C++-white.svg?&logo=cpp&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Python-white.svg?&logo=cpp&logoColor=black&style=for-the-badge)
 <br>
 ![Static Badge](https://img.shields.io/badge/TOOLS:-white?logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=black&style=for-the-badge)
